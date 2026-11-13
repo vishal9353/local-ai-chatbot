@@ -124,6 +124,6 @@ http://localhost:8501
 
 ## 👨‍💻 Author
 
-**YOUR NAME**
+**Vishal Nayak**
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/vishal9353
