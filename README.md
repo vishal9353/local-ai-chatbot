@@ -1,7 +1,7 @@
 
 # Local AI Chatbot 🤖
 
-🚀 **[Live Demo](https://local-ai-chatbot-tqvdnj57ewcwpjnmfr2jxl.streamlit.app/)** | 📂 **[GitHub Repository](YOUR_GITHUB_REPOSITORY_URL)**
+🚀 **[Live Demo](https://local-ai-chatbot-tqvdnj57ewcwpjnmfr2jxl.streamlit.app/)** | 📂 **[GitHub Repository](https://github.com/vishal9353/local-ai-chatbot.git)**
 
 A locally running AI chatbot built using Python, LangChain, Ollama, Llama 3.1 and Streamlit.
 
